@@ -10,4 +10,4 @@ SouthernMinds-Front-Challenge
 4# Al clickear en el botón que contiene la leyenda "SouthernMinds", nos llevará al home, donde veremos las mascotas dadas de alta con su detalle.
 	Inicialmente estará vacio. 
 
-5# Para dar de alta una mascota hay que clickear en el botos Create Pet que se encuentra a la derecha del NavBar. Luego de creada podremos verla en home.
+5# Para dar de alta una mascota hay que clickear en el botón Create Pet que se encuentra a la derecha del NavBar. Luego de creada podremos verla en home.
