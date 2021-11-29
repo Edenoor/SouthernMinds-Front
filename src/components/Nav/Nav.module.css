@@ -1,0 +1,57 @@
+.nav {
+  background: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0.527)
+    ),
+    url(https://images.pexels.com/photos/1090972/pexels-photo-1090972.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  height: 35px;
+  align-items: center;
+  border-bottom: brown solid 3px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.btn {
+  display: flex;
+  background-color: royalblue;
+  padding: 5px 5px 5px 5px;
+  color: white;
+  border: white;
+  align-self: flex-end;
+  border-radius: 3px;
+  margin-left: 5px;
+  position: relative;
+  top: 8px;
+  right: 8px;
+  justify-content: space-around;
+}
+
+.btn:hover {
+  background-color: tomato;
+  color: black;
+  box-shadow: rgb(41, 16, 12);
+}
+.search {
+  position: relative;
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.home {
+  display: flex;
+  background-color: transparent;
+  padding: 2px 2px 2px 2px;
+  color: white;
+  border: white;
+  align-self: flex-end;
+  border-radius: 50px;
+  position: absolute;
+  justify-content: space-around;
+  top: 8px;
+  right: 8px;
+}

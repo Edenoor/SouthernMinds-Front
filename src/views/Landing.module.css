@@ -1,0 +1,23 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+}
+
+.button {
+  background-color: rgba(245, 245, 245, 0.541);
+  border-radius: 5px;
+  padding: auto;
+  font-size: 50px;
+  box-shadow: inset;
+}
+
+button:hover {
+  border: none;
+  padding: 5px;
+  background-color: whitesmoke;
+}
